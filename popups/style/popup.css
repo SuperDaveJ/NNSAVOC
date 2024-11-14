@@ -1,0 +1,109 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image: url(../graphic/popup.jpg);
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left:5px;
+}
+
+h2 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left:5px;
+}
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	font-size: 14px;
+	margin-left:5px;
+}
+
+ul {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	margin-left:30px;
+}
+
+ul ul{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+color: #FFFFFF;
+	padding-left:5px;
+}
+
+
+#scroll {
+	width: 535px;
+	height: 290px;
+	overflow: auto;
+	margin-top: 0px;
+	margin-bottom: -5px;
+}
+
+#scrollsm {
+	width: 535px;
+	height: 290px;
+	overflow: auto;
+	margin-top: 0px;
+	margin-bottom: -5px;
+	position:relative;
+	top:-15px;
+}
+
+#head {
+	width: 535px;
+	height: 25px;
+	margin: 0 0 0 0;
+}
+
+.popup {
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left:5px;
+}
+
+.popupsm {
+	font-size: 15px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left:5px;
+	position:relative;
+	width:530px;
+	top:-9px;	
+}
+
+ a:link {
+		color:#009;
+	
+	/*font-weight:bold;*/
+}
+a:visited {
+	color: #003399;
+	color:#009;
+	/*font-weight:bold;*/
+} 
+a:hover {
+		color:#009;
+	/*font-weight:bold;*/
+}
+a:active {
+		color:#009;
+	/*text-align: right;	font-weight:bold;*/
+}
+
+

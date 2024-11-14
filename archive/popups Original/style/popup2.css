@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image: url(../graphic/email_background.jpg);
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left:5px;
+}
+
+h2 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left:5px;
+}
+
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	margin-left:5px;
+}
+
+ul {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	margin-left:30px;
+}
+
+#scroll {
+	width: 400px;
+	height: 290px;
+	overflow: auto;
+	margin-top: 0px;
+	margin-bottom: -5px;
+	margin-left: 110px;
+}
+
+#scrollsm {
+	width: 535px;
+	height: 290px;
+	overflow: auto;
+	margin-top: 0px;
+	margin-bottom: -5px;
+	position:relative;
+	top:-15px;
+}
+
+#head {
+	width: 535px;
+	height: 25px;
+	margin: 0 0 0 0;
+}
+
+.popup {
+	font-size: 16px;
+	font-weight: bold;
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left:117px;
+	padding-top:3px;
+}
+
+.popupsm {
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left:5px;
+	position:relative;
+	width:530px;
+	top:-9px;	
+}
+
+

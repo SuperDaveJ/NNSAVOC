@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Resources>
+	<Book name="MP" ISDN="1122563" />
+	<Book name="T" ISDN="00333777" />
+	<Book name="1H" ISDN="248679" />
+	<Novel name="TSL" ISDN="257896">
+		<Description>Description placeholder</Description>
+	</Novel>
+	<Novel name="A" ISDN="3497765">
+		<Description>Description placeholder</Description>
+	</Novel>
+	<Photo url="sample_image.jpg" />
+</Resources>
